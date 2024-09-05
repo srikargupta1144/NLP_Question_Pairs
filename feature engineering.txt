@@ -1,0 +1,14 @@
+I applied feature engineering on data and got the 7 features from data
+ -> q1 len - char length of q1
+ -> q2 len - char length of q2
+ -> q1 words - # words in q1
+ -> q2 words - # words in q2
+ -> words common - # of common unique words
+ -> words total - Total # words in q1 + Total # words in q2
+ -> words share - word common/word total
+
+ From around 4,00,000 rows, I am using only 30,000 rows data and made 7 new columns in it we add 3000 BOW for q1 and q2
+
+ so now total number features will be 3000 + 3000 + 7 = 6007 features in total
+ 
+  

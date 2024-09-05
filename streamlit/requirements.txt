@@ -1,0 +1,5 @@
+streamlit
+scikit-learm
+fuzzywuzzy
+distance
+bs4
